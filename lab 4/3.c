@@ -13,7 +13,7 @@ int main() {
     }
     else {
         for (int i = 1; i < len - 1; i++) {
-            printf("%c", str[i]); // Print characters except first and last
+            printf("%c", str[i]);
         }
         printf("\n");
     }
